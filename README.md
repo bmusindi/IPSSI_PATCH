@@ -1,7 +1,7 @@
 IPSSI PATCH MANAGEMENT - PROJET ÉTUDIANT
 ========================================
 
-Étudiant: Beni Musindi
+Étudiant: Benit Musindi
 Date: 12 Décembre 2025
 
 DESCRIPTION
